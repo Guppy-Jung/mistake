@@ -1,0 +1,11 @@
+span {
+  border: 1px solid red;
+}
+
+div {
+  border: 1px solid green;
+}
+
+body {
+  padding: 20px;
+}
